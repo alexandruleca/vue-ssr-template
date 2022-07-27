@@ -12,9 +12,7 @@ html, body, #app {
     font-family: 'Roboto', sans-serif;
     height: 100%;    
     text-align: center;
-    background-image: url("./images/background-blur.jpg");
-    background-size: cover;
-    color: white;
+    color: black;
 
     h1 {
         font-weight: 100;
@@ -27,7 +25,7 @@ html, body, #app {
     }
 
     a {
-        color: white;
+        color: black;
         line-height: 4;
     }
 }

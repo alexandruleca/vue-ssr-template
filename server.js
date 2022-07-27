@@ -29,7 +29,7 @@ app.get(/^\/(about)?\/?$/, async (req, res) => {
     const context = {
         url: req.params['0'] || '/',
         state: {
-            title: 'Vue SSR Simple Setup',
+            title: 'VueJS SSR',
             users: []
         }
     };

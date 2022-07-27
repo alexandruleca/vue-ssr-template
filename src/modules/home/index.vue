@@ -1,6 +1,5 @@
 <template>
     <div>        
-        <router-link to="/about">Go to About page</router-link>
         <users-list :users="users"></users-list>
     </div>
 </template>
@@ -13,7 +12,7 @@
         name: 'Home',
 
         metaInfo: {
-            title: 'Vue SSR Simple Setup Home',
+            title: 'Home - VueJS SSR',
             meta: [
                 { name: 'description', content: 'Home page description' }
             ]

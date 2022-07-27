@@ -1,3 +1,5 @@
+This repo is based on [olegpisklov/vue-ssr-simple-setup](https://github.com/olegpisklov/vue-ssr-simple-setup).
+
 ## Project setup
 ```
 npm install
