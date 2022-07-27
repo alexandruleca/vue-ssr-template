@@ -1,6 +1,6 @@
 {
-  "name": "vue-ssr-simple-steps",
-  "version": "0.1.0",
+  "name": "vue-ssr",
+  "version": "0.0.1",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon ./server.js",
     "build:client": "cross-env NODE_ENV=production webpack --config ./config/webpack.client.config.js",
