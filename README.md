@@ -2,20 +2,20 @@ This repo is based on [olegpisklov/vue-ssr-simple-setup](https://github.com/oleg
 
 ## Project setup
 ```
-npm install
+yarn install
 ```
 
 ### Run Express dev server with HMR support
 ```
-npm run dev
+yarn dev
 ```
 
 ### Build client bundle for production
 ```
-npm run build:client
+yarn build:client
 ```
 
 ### Build SSR bundle for production
 ```
-npm run build:server
+yarn build:server
 ```
