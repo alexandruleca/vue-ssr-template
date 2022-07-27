@@ -1,4 +1,4 @@
-import { createApp } from './app';
+import { createApp } from './main';
 
 const { app, router } = createApp({state: window.__INITIAL_STATE__});
 
